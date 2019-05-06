@@ -1,2 +1,2 @@
-# bibbase.github.io
-BibBase Example Page
+# epasini.github.io
+Web page based on the duly famous BibBase Example Page
